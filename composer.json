@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "laracasts/testdummy": "~2.1",
+        "laracasts/testdummy": "dev-master",
         "symfony/dom-crawler": "~2.5|~2.6",
         "symfony/css-selector": "~2.5|~2.6",
         "fabpot/goutte": "~2.0",
